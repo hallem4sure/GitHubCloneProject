@@ -1,1 +1,1 @@
-"This is the description of my repo" 
+"Task 3: Branching, Making Changes, and Resolving Merge Conflicts" 
